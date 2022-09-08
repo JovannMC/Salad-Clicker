@@ -4,8 +4,6 @@ Hello! This doesn't contain any code, this repository is just used to host the b
 You should read the `readme.txt` file. <br/><br/>
 **Please don't actually play this game, this has the absolute bare minimum currently.**
 
-[Credits](CREDITS.md)
-
 ## What?
 
 Clicker game for the [Salad](https://salad.com) community because they sure love their clickers<br/>
